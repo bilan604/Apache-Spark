@@ -1,16 +1,3 @@
-# PySpark Application Template
-
-You can create a PySpark application using this template. This template utilizes VS Code Dev container, so you do not need to install Spark yourself.
-
-## Environment Setup
-1. Install Docker or Podman.
-2. Install Visual Studio Code. If Podman is used, change `remote.containers.dockerPath` to `podman`.
-3. Install Extension `ms-vscode-remote.remote-containers`
-4. In Github, click `User this template`.
-5. Open this project in Container: `remote-containers.openFolder`
-
-## Run program
-
 ## Run unit tests
 There are multiple ways to run unit tests, as shown below. Spark unit tests takes reletatively longger time to start and run, but should finish at minutes level.
 
