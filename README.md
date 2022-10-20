@@ -17,7 +17,7 @@ There are multiple ways to run unit tests, as shown below. Spark unit tests take
 3. When the tests finish, find coverage report under [coverage_html_report](coverage_html_report) folder, and open [index.html](coverage_html_report) via Web browser.  
 
 ### Data Sample Preview
-    ```yaml
+```yaml
     {
         0: {
         'rater': 'Jul 16, 2022 - Anonymous Employee',
@@ -80,4 +80,4 @@ There are multiple ways to run unit tests, as shown below. Spark unit tests take
         'rating': '5.0'
         }
     }
-    ```
+```
